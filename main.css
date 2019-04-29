@@ -14,11 +14,9 @@ body {
 h1 {
   color: DeepSkyBlue;
   font-family:Helvitica, serif;
-  a:hover: 
-    background-color: green;
 }
 
-h4: hover {
+h4:hover {
     background-color: green;
 }
 
@@ -29,9 +27,6 @@ h4 {
   
 p {
     color: Fuchsia;
- hover:{
-    background-color: green;
-  }
 }  
 
   
