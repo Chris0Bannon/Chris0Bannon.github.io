@@ -14,9 +14,8 @@ body {
 h1 {
   color: DeepSkyBlue;
   font-family:Helvitica, serif;
-  hover:
+  a:hover: 
     background-color: green;
-  
 }
 
 h4 {
