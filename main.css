@@ -9,11 +9,15 @@ body {
   margin: 0;
   text-align: center;
   width: 100%;
-  color: AnitqueWhite;
   }
 
 h1 {
   color: DeepSkyBlue;
   font-family:Helvitica, serif;
+}
+
+h4 {
+  color: AntiqueWhite;
+  font-family: Helvitica, serif;
 }
   
