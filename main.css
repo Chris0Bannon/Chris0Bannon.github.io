@@ -20,13 +20,11 @@ h1 {
 
 h4: hover {
     background-color: green;
+}
 
 h4 {
   color: AntiqueWhite;
   font-family: Helvitica, serif;
-  hover:{
-    background-color: green;
-  }
 }
   
 p {
