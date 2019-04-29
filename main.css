@@ -14,15 +14,24 @@ body {
 h1 {
   color: DeepSkyBlue;
   font-family:Helvitica, serif;
+  hover:{
+    background-color: green;
+  }
 }
 
 h4 {
   color: AntiqueWhite;
   font-family: Helvitica, serif;
-  background-color: green;
+  hover:{
+    background-color: green;
+  }
 }
   
 p {
     color: Fuchsia;
+ hover:{
+    background-color: green;
+  }
 }  
+
   
