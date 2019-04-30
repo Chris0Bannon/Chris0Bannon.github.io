@@ -14,11 +14,7 @@ header {
 header:hover {
     background-color: AntiqueWhite;
     color: DeepSkyBlue;
-}
-
-#ContactInfo:hover {
-    background-color: AntiqueWhite;
-    color: DeepSkyBlue;
+    transform: rotate(180deg);
 }
 
 #ContactInfo {
@@ -31,13 +27,7 @@ header:hover {
     background-color: AntiqueWhite;
     color: DeepSkyBlue;
 }
-      
-#Introduction {
-  text-align: center;
-  color:  AntiqueWhite;
-  font-family: Helvitica, serif;
-}
-  
+        
 p:hover {
     background-color: Purple;
     color: DeepSkyBlue;
