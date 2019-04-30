@@ -1,9 +1,8 @@
 html {
-  background: url(Babalufya.jpg) 
+  background: url(Babalufya.jpg) no-repeat center center fixed;
   background-size: cover;
-  background-position: center;
+  height: 100%;
   overflow: hidden;
-  background-repeat: no-repeat;
 }
 
 header {
