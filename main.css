@@ -1,32 +1,35 @@
 html {
-  background: url(Babalufya.jpg) no-repeat center center fixed;
-  background-size: cover;
+  background: url(Babalufya.jpg) 
+  background-repeat: no-repeat;
+  background-size: auto;
   overflow: hidden;
 }
 
-body {
-  height:  100%;
-  margin: 0;
-  text-align: center;
-  width: 100%;
-  }
-
-h1 {
+header {
   color: Purple;
   font-family:Helvitica, serif;
 }
 
-h1:hover {
+header:hover {
     background-color: Purple;
     color: Yellow;
 }
 
-h4:hover {
+#ContactInfo:hover {
     background-color: Purple;
     color: Yellow;
 }
 
-h4 {
+#ContactInfor {
+  color: Purple;
+  font-family: Helvitica, serif;
+}
+  
+#me:hover {
+    background-color: Purple;
+    color: Yellow;
+  
+#me {
   color: Purple;
   font-family: Helvitica, serif;
 }
