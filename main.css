@@ -5,6 +5,10 @@ html {
   overflow: hidden;
 }
 
+#pic {
+  float: right;
+}
+
 header {
   color: AntiqueWhite;
   font-family:Helvitica, serif;
@@ -22,15 +26,35 @@ header:hover {
   color: AntiqueWhite;
   font-family: Helvitica, serif;
 }
-          
-.job {
-  border: 1px solid black;
-  margin-top: 100px;
+
+#Introduction {
+  border: 0px solid AntiqueWhite;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 80px;
+  text-align: left;
+  color:black ;
+}
+
+#proffesionalexp {
+  border: 0px solid AntiqueWhite;
+  margin-top: 1px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
   text-align: left;
-  color:DarkSlateGrey ;
+  color:black ;
+}
+          
+.job {
+  border: 2px solid AntiqueWhite;
+  margin-top: 1px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 30px;
+  text-align: left;
+  color:black ;
   
 }
 
@@ -42,5 +66,6 @@ p:hover {
 p {
     color: Purple;
 }  
+
 
   
