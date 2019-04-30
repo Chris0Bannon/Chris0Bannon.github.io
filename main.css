@@ -5,10 +5,11 @@ html {
   overflow: hidden;
 }
 
-#pic {
+#picture {
   float: right;
-  height: 100px
-  width: 100px
+  height: 100px;
+  width: 100px;
+  margin: 40px auto 60px;
 }
 
 header {
