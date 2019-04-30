@@ -27,11 +27,11 @@ header:hover {
   font-family: Helvitica, serif;
 }
   
-#me:hover {
+#Introduction:hover {
     background-color: Purple;
     color: Yellow;
       
-#me {
+#Introduction {
   color: Purple;
   font-family: Helvitica, serif;
   text-align: center;
