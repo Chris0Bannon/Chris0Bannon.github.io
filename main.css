@@ -28,6 +28,12 @@ header:hover {
     color: DeepSkyBlue;
 }
         
+.job {
+  text-align: right;
+  color: AntiqueWhite;
+  
+}
+
 p:hover {
     background-color: Purple;
     color: DeepSkyBlue;
