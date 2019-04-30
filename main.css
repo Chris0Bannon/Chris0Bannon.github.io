@@ -32,9 +32,9 @@ header:hover {
     color: Yellow;
       
 #Introduction {
+  text-align: center;
   color: Purple;
   font-family: Helvitica, serif;
-  text-align: center;
 }
   
 p:hover {
