@@ -22,15 +22,10 @@ header:hover {
   color: AntiqueWhite;
   font-family: Helvitica, serif;
 }
-  
-#Introduction:hover {
-    background-color: AntiqueWhite;
-    color: DeepSkyBlue;
-}
-        
+          
 .job {
   text-align: left;
-  color: Purple;
+  color:DarkSlateGrey ;
   
 }
 
