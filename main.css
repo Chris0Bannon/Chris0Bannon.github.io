@@ -6,29 +6,29 @@ html {
 }
 
 header {
-  color: Purple;
+  color: AntiqueWhite;
   font-family:Helvitica, serif;
   text-align: center;
 }
 
 header:hover {
-    background-color: Purple;
-    color: Yellow;
+    background-color: AntiqueWhite;
+    color: DeepSkyBlue;
 }
 
 #ContactInfo:hover {
-    background-color: Purple;
+    background-color: AntiqueWhite;
     color: Yellow;
 }
 
 #ContactInfo {
   text-align: right;
-  color: Purple;
+  color: AntiqueWhite;
   font-family: Helvitica, serif;
 }
   
 #Introduction:hover {
-    background-color: Purple;
+    background-color: AntiqueWhite;
     color: Yellow;
       
 #Introduction {
