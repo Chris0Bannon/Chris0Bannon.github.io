@@ -18,7 +18,7 @@ header:hover {
 
 #ContactInfo:hover {
     background-color: AntiqueWhite;
-    color: Yellow;
+    color: DeepSkyBlue;
 }
 
 #ContactInfo {
@@ -29,17 +29,18 @@ header:hover {
   
 #Introduction:hover {
     background-color: AntiqueWhite;
-    color: Yellow;
+    color: DeepSkyBlue;
+}
       
 #Introduction {
   text-align: center;
-  color: Purple;
+  color:  AntiqueWhite;
   font-family: Helvitica, serif;
 }
   
 p:hover {
     background-color: Purple;
-    color: Yellow;
+    color: DeepSkyBlue;
 }
 
 p {
