@@ -8,6 +8,7 @@ html {
 header {
   color: Purple;
   font-family:Helvitica, serif;
+  text-align: center;
 }
 
 header:hover {
@@ -20,7 +21,8 @@ header:hover {
     color: Yellow;
 }
 
-#ContactInfor {
+#ContactInfo {
+  text-align: right;
   color: Purple;
   font-family: Helvitica, serif;
 }
