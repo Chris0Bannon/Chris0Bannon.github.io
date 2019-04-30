@@ -12,29 +12,32 @@ body {
   }
 
 h1 {
-  color: DeepSkyBlue;
+  color: Purple;
   font-family:Helvitica, serif;
 }
 
 h1:hover {
-    background-color: yellow;
+    background-color: Purple;
+    color: Yellow;
 }
 
 h4:hover {
-    background-color: green;
+    background-color: Purple;
+    color: Yellow;
 }
 
 h4 {
-  color: AntiqueWhite;
+  color: Purple;
   font-family: Helvitica, serif;
 }
   
 p:hover {
-    background-color: lightgoldenrodyellow;
+    background-color: Purple;
+    color: Yellow;
 }
 
 p {
-    color: Fuchsia;
+    color: Purple;
 }  
 
   
