@@ -18,11 +18,14 @@ header {
   text-align: center;
 }
 
+
 header:hover {
     background-color: AntiqueWhite;
-    color: DeepSkyBlue;
+    color: #33bbff;
     transform: rotate(180deg);
+    font-size: 69pt
 }
+
 
 #ContactInfo {
   text-align: right;
@@ -47,7 +50,7 @@ header:hover {
   margin-right: 150px;
   margin-left: 80px;
   text-align: left;
-  color:Black ;
+  color:AntiqueWhite ;
 }
           
 .job {
@@ -69,3 +72,4 @@ p:hover {
 p {
     color: Purple;
 }  
+
