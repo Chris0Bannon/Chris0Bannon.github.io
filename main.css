@@ -29,10 +29,9 @@ header {
 
 
 header:hover {
-    background-color: AntiqueWhite;
     color: #33bbff;
     transform: rotate(180deg);
-    font-size: 69pt;
+    font-size: 69pt; /*ayylmao*/
     font-family:symbol;
 }
 
