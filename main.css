@@ -85,9 +85,10 @@ header:hover {
 p:hover {
     background-color: #db4dff;
     color:  #ffff66;
+    font-size: 6pt
 }
 
 p {
     color: Purple;
-    font-size: 6pt;
+    font-size: 2pt;
 }  
