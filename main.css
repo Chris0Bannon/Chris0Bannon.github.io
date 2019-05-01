@@ -12,6 +12,12 @@ html {
   margin: 40px auto 60px;
 }
 
+#vid {
+  float: center;
+  height: 100%;
+  Width:  100%;
+}
+
 header {
   color: AntiqueWhite;
   font-family:Helvitica, serif;
@@ -23,7 +29,8 @@ header:hover {
     background-color: AntiqueWhite;
     color: #33bbff;
     transform: rotate(180deg);
-    font-size: 69pt
+    font-size: 69pt;
+    font-family:symbol;
 }
 
 
@@ -33,7 +40,7 @@ header:hover {
   font-family: Helvitica, serif;
 }
 
-#Introduction {
+#Title {
   border: 0px solid AntiqueWhite;
   margin-top: 1px;
   margin-bottom: 10px;
@@ -71,5 +78,6 @@ p:hover {
 
 p {
     color: Purple;
+    font-size: 6pt;
 }  
 
