@@ -13,6 +13,8 @@ html {
 }
 
 .myVid {
+  display: block;
+  margin: 0 auto;
   float: center;
   height: 240px;
   Width:  320px;
