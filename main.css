@@ -36,7 +36,7 @@ header:hover {
 
 #ContactInfo {
   text-align: right;
-  color: AntiqueWhite;
+  color: #e6e6e6;
   font-family: Helvitica, serif;
 }
 
@@ -47,7 +47,7 @@ header:hover {
   margin-right: 150px;
   margin-left: 80px;
   text-align: left;
-  color:AntiqueWhite ;
+  color:#e6e6e6;
 }
 
 #proffesionalexp {
@@ -80,4 +80,3 @@ p {
     color: Purple;
     font-size: 6pt;
 }  
-
